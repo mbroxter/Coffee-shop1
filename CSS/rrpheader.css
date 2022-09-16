@@ -1,0 +1,8 @@
+body { margin: 0; }
+.header {
+    color: black;
+    background-color: pink;
+    padding: 24px;
+    text-align: center;
+  }
+
